@@ -1,0 +1,61 @@
+<style>
+  .white-text{
+    color: white;
+  }
+	 h1 {
+    font-family: Lobster, Monospace;
+    background-color:   rgb(165,42,42);
+  }
+  .top-right-corner{
+    position:fixed;
+    top:20px;
+    right:50px;
+ }
+.top-left-corner{
+  position:fixed;
+  top:20px;
+  left:50px;
+}
+.home-button{
+  position: fixed;
+  top:100px;
+  left:177px;
+}
+.student-id-button{
+  position: absolute;
+  top:100px;
+  left:419.5px;
+}
+.teacher-id-button{
+  position: absolute;
+  top:100px;
+  left:662px;
+}
+.admin-id-button{
+  position: absolute;
+  top: 100px;
+  left: 904.5px
+}
+ .test{
+    height:39.59px;
+    width:123.89px;
+}
+.test1{
+  height: 40px;
+  width: 242.5px;
+}
+.search-input{
+  height: 40px;
+  width:400px;
+  position: absolute;
+  top: 160px;
+  left: 500px;
+}
+.button-size{
+  height: 40px;
+  width:123.89px;
+  position: absolute;
+  top: 160px;
+  left: 370px;
+}
+</style>
