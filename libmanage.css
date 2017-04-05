@@ -1,10 +1,14 @@
 <style>
   .white-text{
-    color: white;
+    color: rgb(14, 13, 13    )  ;
   }
 	 h1 {
     font-family: Lobster, Monospace;
-    background-color:   rgb(165,42,42);
+     color: rgb(14, 13, 13    )  ;
+  }
+  .Lobster{
+    font-family: Lobster, Monospace;
+    color: red;
   }
   .top-right-corner{
     position:fixed;
@@ -57,5 +61,15 @@
   position: absolute;
   top: 160px;
   left: 370px;
+}
+.div-image{
+  border: 3px solid gray;
+}
+div{
+  position: absolute;
+  top: 250px;
+  left: 177px;
+  height: 350px;
+  width: 323.3px;
 }
 </style>
