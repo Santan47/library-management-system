@@ -1,11 +1,17 @@
 <style>
 
   .white-text{
-    color: rgb(14, 13, 13    )  ;
+    color: rgb(247, 9, 203 )  ;
   }
 	 h1 {
     font-family: Lobster, Monospace;
-     color: rgb(14, 13, 13    )  ;
+     color: rgb(247, 149, 9 )  ;
+  }
+  .black{
+     color: rgb(6, 6, 6);
+  }
+  .pink{
+    color:rgb(115, 171, 25);
   }
   body {
   background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/06/Book-lovely-hd-wallpaper.jpg);
@@ -13,7 +19,7 @@
 }
   .Lobster{
     font-family: Lobster, Monospace;
-    color: red;
+    color: rgb(247, 149, 9  )  ;
   }
   .top-right-corner{
     position:fixed;
@@ -68,13 +74,30 @@
   left: 370px;
 }
 .div-image{
-  border: 3px solid gray;
+  border: 3px solid rgb(247, 149, 9 ) ;
 }
-div{
+.div{
   position: absolute;
   top: 250px;
   left: 177px;
   height: 350px;
-  width: 323.3px;
+  width: 300px;
+}
+.div1{
+  position: absolute;
+  top: 250px;
+  left: 500.5px;
+  height: 350px;
+  width: 300px;
+}
+.div2{
+  position: absolute;
+  top: 250px;
+  left: 824px;
+  height: 350px;
+  width: 300px;
+}
+.thick {
+    font-weight: bold;
 }
 </style>
